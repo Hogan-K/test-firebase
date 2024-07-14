@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>
-      Where do you want to go ???????
+      Where do you want to go ?
     </h1>
     <div>
       <router-link to="/class">
