@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "test-dev-ebb7c",
     "public": "dist",
     "ignore": [
       "firebase.json",
